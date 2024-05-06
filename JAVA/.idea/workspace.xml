@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffba5fb1-e4c2-4e9d-8d23-998d5738c9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b5aba84a-7a65-4a5f-9255-87a394cec41a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b5aba84a-7a65-4a5f-9255-87a394cec41a.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "database.query.execution",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -105,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711792987983</updated>
       <workItem from="1714918784507" duration="569000" />
+      <workItem from="1714961097597" duration="13989000" />
     </task>
     <servers />
   </component>
